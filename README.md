@@ -27,3 +27,15 @@ TimeMachine.py # Script to show current date/time, future dates (with timedelta)
      - patterns.py # Pattern printing problems (stars, numbers, etc.)
  trickyQuestions.py # Logical questions to test loop and condition skills
  README.md # Specific notes or explanation related to loop problems
+
+
+
+
+
+ ### 📝 Notes
+
+This repository is built to help you practice Python in small chunks. Each file is standalone and beginner-friendly. Try opening and running each one to explore new logics.
+
+---
+
+**Keep learning, LeetCoding, and leveling up!**
